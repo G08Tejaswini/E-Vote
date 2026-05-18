@@ -80,11 +80,15 @@ The project combines embedded systems, biometric verification, hardware interfac
 ```txt
 e-voting-machine/
 │
+├── presentation/
+│   ├── presentation.pptx
+│   └── presentation.pdf
+│
 ├── voting_machine.ino
 ├── report.pdf
-├── presentation.pptx
+│
 ├── images/
-├── LICENSE 
+├── LICENSE
 └── README.md
 ```
 
